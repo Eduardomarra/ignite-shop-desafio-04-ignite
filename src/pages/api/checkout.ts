@@ -5,10 +5,6 @@ import { IProduct } from "../../context/CartContext";
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
     const {products} = req.body as {products: IProduct[]}
 
-    if(req.method !== 'POST') {
-        return res.status(405).end('Method not allowed')
-    }
-
     if(!products) {
         return res.status(400).json({ error: 'Product not found!' })
     }

@@ -15,7 +15,7 @@
     height="auto"
     alt="page detail "
     title="Page Details"
-    src="./src/assets/page_detalis.JPG"
+    src="./src/assets/page_details.JPG"
   />
 </div>
 <div align="center">

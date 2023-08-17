@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://github-blog-emarra.vercel.app/" target="_blank">Versão online</a>
+<a href="https://ignite-shop-emarra.vercel.app/" target="_blank">Versão online</a>
 
 Desafio Rocketseat - Ignite ReactJs .
 
